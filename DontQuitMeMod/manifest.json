@@ -1,0 +1,10 @@
+{
+  "Name": "DontQuitMe",
+  "Author": "Bizzycola",
+  "Version": "1.0.0",
+  "Description": "Greys out the window exit button when in the game.",
+  "UniqueID": "bizzycola.dontquitme",
+  "EntryDll": "DontQuitMeMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

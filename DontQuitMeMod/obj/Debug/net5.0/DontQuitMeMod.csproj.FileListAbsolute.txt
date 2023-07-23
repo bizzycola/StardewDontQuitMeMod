@@ -1,0 +1,8 @@
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\bin\Debug\net5.0\DontQuitMeMod.deps.json
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\bin\Debug\net5.0\DontQuitMeMod.dll
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.csproj.AssemblyReference.cache
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.AssemblyInfoInputs.cache
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.AssemblyInfo.cs
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.csproj.CoreCompileInputs.cache
+D:\Development\Modding\Stardew\DontQuitMeMod\DontQuitMeMod\obj\Debug\net5.0\DontQuitMeMod.dll

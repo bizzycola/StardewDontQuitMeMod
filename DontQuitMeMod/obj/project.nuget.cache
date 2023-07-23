@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu7oLx2GkwB14C0lqYqOQkviXa2mMr1Bt4qwkeNauYGdUFYhPy9evRHTZVWdhFCkb5A+BHUB/wZJgHpc8kRpTA==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Modding\\Stardew\\DontQuitMeMod\\DontQuitMeMod\\DontQuitMeMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bizzy\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
